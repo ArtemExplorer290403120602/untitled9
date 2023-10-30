@@ -10,6 +10,7 @@ public class Dog extends Animal {
             System.out.println("Собака недовольна!");
         }
     }
+
     public void voice() {
         System.out.println("Собачка Гаф-Гаф");
     }
