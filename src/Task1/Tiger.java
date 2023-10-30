@@ -10,6 +10,7 @@ public class Tiger extends Animal {
             System.out.println("Тигр недоволен!");
         }
     }
+
     public void voice() {
         System.out.println("Тигр рычит!");
     }

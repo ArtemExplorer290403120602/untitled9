@@ -8,6 +8,7 @@ public class Rabbit extends Animal {
             System.out.println("Кроллик недоволен");
         }
     }
+
     public void voice() {
         System.out.println("Кроллик прыгает задними лапками");
     }
